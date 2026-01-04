@@ -5,6 +5,10 @@ cd build
 cmake ..
 make
 
+Zároveň musí mít nainstalované knihovny SDL, SDL_image, SDL_ttf a tyhle složky musí mít v hlavním souboru, aby šel program zkompilovat.
+
+Kdyby to i tak nefungovalo, tak lze stáhnout tyhle soubory zde - https://github.com/StealKo/Tower-Defense
+
 Následně musí spustit hru z build složky.
 
 ./main
